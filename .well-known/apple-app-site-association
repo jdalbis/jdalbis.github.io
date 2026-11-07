@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["DUMD6XRY24.com.jdalbis.ladder"],
+        "components": [
+          { "/": "/plaid/oauth", "comment": "Plaid OAuth return (redirect_uri path)" }
+        ]
+      }
+    ]
+  }
+}
